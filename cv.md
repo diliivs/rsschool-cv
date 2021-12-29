@@ -20,7 +20,7 @@ I have complited courses "Software Testing", and now wanna learn Java Script in 
 ## Code exaple 
 *Still ahead*
 ## Education
-+ Belarusian state univercity of informatics and radioelectronics
++ [Belarusian state univercity of informatics and radioelectronics](https://www.bsuir.by/)
    + 	[Faculty of Computer-Aided Design](https://www.bsuir.by/en/faculty-of-computer-aided-design)
      + 	[Information and Computer-Aided Systems Design](https://www.bsuir.by/en/academic-department-information-and-computer-aided-systems-design)
 + [ITSila](http://itsila.com/) Software Testing
