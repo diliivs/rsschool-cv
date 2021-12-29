@@ -17,7 +17,7 @@ I have complited courses "Software Testing", and now wanna learn Java Script in 
 + C# (basic)
 + Jira
 + MySQL
-+ Excel
++ MS Office
 ## Code exaple 
 *Still ahead*
 ## Education
