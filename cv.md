@@ -29,4 +29,3 @@ I have complited courses "Software Testing", and now wanna learn Java Script in 
 + Belarussian (native)
 + Russian (native)
 + English B1 (had practice in Germany 2 weeks)
-+ German A1
