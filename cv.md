@@ -3,6 +3,7 @@
 + **Phone:** +375333793074
 + **Email:** danliv0298@gmail.com
 + **GitHub:** diliivs
++ **Telegram:**@diliivs
 + **[LinkedIn](https://www.linkedin.com/in/diana-livshits-67a1b6215 )**
 + **Location:** Minsk, Belarus
 ## About me
