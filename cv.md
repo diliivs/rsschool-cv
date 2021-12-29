@@ -29,3 +29,11 @@ I have complited courses "Software Testing", and now wanna learn Java Script in 
 + Belarussian (native)
 + Russian (native)
 + English B1 (had practice in Germany 2 weeks)
+$ git reset --hard 90908ae717e6a1deda0ad09f0b04baf0b0be69bf 
+$ git push --force
+$ git reset --hard fd7d64c2bb84ebb1a5a632494066b36f33fb46c5
+$ git push --force
+$ git reset --hard 4e994bb2f668396b77c1c35dd67568bf8ffb0208
+$ git push --force
+$ git reset --hard 836e6bf4cebb2b92026ce58b2feeb712ab8f584b
+$ git push --force
