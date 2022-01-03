@@ -1,0 +1,39 @@
+# Diana Livshits
+## Contacts
++ **Phone:** +375333793074
++ **Email:** danliv0298@gmail.com
++ **GitHub:** diliivs
++ **Tg:** @diliivs
++ **[LinkedIn](https://www.linkedin.com/in/diana-livshits-67a1b6215 )**
++ **Location:** Minsk, Belarus
+## About me
+I started my work experience at the age of 19. I worked in the Security managment of the Bank, but after 3 years I changed jobs. 
+Currently I'm a QA/support in another Bank. My dutes include: application testing, writing testing documentation, adding bugs to the Jira, responding to reviews, etc.
+I have complited courses "Software Testing", and now wanna learn Java Script in RSSchool:) I'm an exellent team player, I've got a great willingness to learn!
+## Skills
++ Manual testing
++ HTML&CSS
++ Java Script (basic)
++ C# (basic)
++ Jira
++ MySQL
++ MS Office
+## Code exaple 
+*Still ahead*
+## Education
++ [Belarusian state univercity of informatics and radioelectronics](https://www.bsuir.by/)
+   + 	[Faculty of Computer-Aided Design](https://www.bsuir.by/en/faculty-of-computer-aided-design)
+     + 	[Information and Computer-Aided Systems Design](https://www.bsuir.by/en/academic-department-information-and-computer-aided-systems-design)
++ [ITSila](http://itsila.com/) Software Testing
+## Languages
++ Belarussian (native)
++ Russian (native)
++ English B1 (had practice in Germany 2 weeks)
+$ git reset --hard 90908ae717e6a1deda0ad09f0b04baf0b0be69bf 
+$ git push --force
+$ git reset --hard fd7d64c2bb84ebb1a5a632494066b36f33fb46c5
+$ git push --force
+$ git reset --hard 4e994bb2f668396b77c1c35dd67568bf8ffb0208
+$ git push --force
+$ git reset --hard 836e6bf4cebb2b92026ce58b2feeb712ab8f584b
+$ git push --force
