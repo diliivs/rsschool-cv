@@ -142,6 +142,11 @@ main .skills ul {
   margin-left: 45px;
 }
 
+.cources h3 {
+  margin-bottom: 10px;
+  color: var(--ligth-gray-color);
+}
+
 footer {
   display: flex;
   justify-content: space-between;
