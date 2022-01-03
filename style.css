@@ -144,8 +144,9 @@ main .skills ul {
 
 .cources li {
   margin-bottom: 50px;
+  margin-left: 45px;
   color: var(--ligth-gray-color);
-}
+ }
 
 footer {
   display: flex;
