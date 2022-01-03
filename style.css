@@ -97,12 +97,11 @@ main li {
 
 main .skills ul {
   list-style-type: disc;
-  margin-left: 50px;
+  margin-left: 40px;
 }
 
 .language-name {
   font-weight: 500;
-  text-transform: uppercase;
 }
 
 .right-column .sub-header {
@@ -142,7 +141,7 @@ main .skills ul {
   margin-left: 45px;
 }
 
-.cources h3 {
+.cources li {
   margin-bottom: 10px;
   color: var(--ligth-gray-color);
 }
