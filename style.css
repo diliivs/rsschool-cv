@@ -42,7 +42,7 @@ header {
 
 header img {
   margin-bottom: 12px;
-  border: 10px solid var(--pink-color);
+  border: 12px solid var(--pink-color);
   border-radius: 50%;
 }
 
@@ -101,7 +101,7 @@ main .skills ul {
 }
 
 .language-name {
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
 }
 
